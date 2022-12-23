@@ -1,6 +1,6 @@
 # Exercice 4
 
-1. Modélisez l'étude de cas suivant à l'aide d'un diagramme de cas de classe.
+1. Modélisez l'étude de cas suivant à l'aide d'un diagramme de classe.
 
 Un vol a une ville de départ et une ville de fin.
 Une ville possède un ou plusieurs aéroports.
