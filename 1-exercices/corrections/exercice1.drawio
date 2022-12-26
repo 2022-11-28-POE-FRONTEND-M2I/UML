@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T11:21:24.343Z" agent="5.0 (Windows)" version="20.6.2" etag="OPMYokcAlGCE2SAZh4jN" type="device"><diagram id="IMfcDTtslhJo9Jacq_pT" name="Page-1">5VbbjpswEP0aHltxCymP2TTZPHS1l6iq+ujABLwyDHJMLv36joMJULIprRJtpT5hH4/t8TnHgy1vmu3vJSvSB4xBWK4d7y3vs+W6ju2F9NHIoUICb1wBieSxCWqAJf8B9UyDljyGTSdQIQrFiy4YYZ5DpDoYkxJ33bA1iu6uBUugBywjJvroNx6r1KBOEDYDC+BJWm8djPxqJGN1tDnKJmUx7lqQN7O8qURUVSvbT0Fo9mpiqnnzN0ZPmUnI1ZAJi5fn0F+/HpLvvnhePO4fEvvxg/OpWmbLRGmObLJVh5oDiIkS00WpUkwwZ2LWoHcSyzwGvY9NvSbmC2JBoEPgKyh1MPqyUiFBqcqEGYU8nmi1qJtjDhUy50KYJaucdCJvHt5AGyxlBJdObFzEZALqUtz4pBG5GzADJQ80UYJgim+7iTBjs+QU1whBDaPFn+jSk+WJScWjUnCQPYXIWoVulpmYRAolMbYFHU4SsBWIJ9xwxTGnkBUqhVkrYCJ4ogeUlqqticmAwmB/mfU+SWaCOzbeN7ff8U1/19wlz0Bp6xYF9o1ore/i/2P30VC7h+9p91FPlntd+IcYvUXrX3qemV5E5IK8jfM9+52dH/YY/koL2Qtr6lmTcPXxEtVzyTJt0l3KFSwLdjTcjn74Vy8Y/qhLW9hnzXfP0Ob5t+LNGfeIe4ENyK0uw3aZ60QMh0BXLNMH7VUUIei9MoDB8/68Aq+B//tC7Jwj9mZ+dPqGtNxA0LZ3Md9SM1HHo1fQSv6K0KZn4lrQbL2mB2FpZAK9FaeKAMOX/PdUHFBUrqUidZun6XGs9cL3Zj8B</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="IMfcDTtslhJo9Jacq_pT" name="Page-1">
+        <mxGraphModel dx="622" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HRQ94fjygY4lQHOxMg0O-1" target="HRQ94fjygY4lQHOxMg0O-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-1" value="Particulier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="140" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="HRQ94fjygY4lQHOxMg0O-5" target="HRQ94fjygY4lQHOxMg0O-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-5" value="Guide" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="300" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-9" value="UC Heb." style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="90" width="420" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-17" value="Reserver un hébergement" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="HRQ94fjygY4lQHOxMg0O-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Effectuer une visite&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Proposer un hébérgement" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="html=1;endArrow=none;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" source="HRQ94fjygY4lQHOxMg0O-1" target="4">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="480" y="220" as="sourcePoint"/>
+                        <mxPoint x="640" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
